@@ -1,7 +1,7 @@
-### 👋 Nice way to meet me
+#### 👋 Nice way to meet me
 <a href="https://velog.io/@tnfkachzh"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/tnfka7408@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-#### 👋 Hi, there
+####  👋 Hi, there
 As a 26-year-old junior developer, I am a front-end developer who wants to grow through new challenges and experiences.
 
 <!--
