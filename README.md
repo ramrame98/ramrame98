@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrame98&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=default)](https://github.com/jogilsang/jogilsang)﻿
-[출처] 깃허브Github - (3) - 프로필 페이지 꾸미기, stats and most used languages|작성자 길상
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrame98&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramrame98&langs_count=10&layout=compact&theme=black)](https://github.com/ramrame98)﻿
