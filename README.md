@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/>
+<a href="https://velog.io/@tnfkachzh"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/>
 
