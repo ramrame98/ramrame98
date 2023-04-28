@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a 26 year old junior developer who wants to grow through new challenges and experiences.
+
 <!--
 **ramrame98/ramrame98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
